@@ -1,0 +1,7 @@
+
+I'd just like to make note that I don't have experience working in agile environments, and I had little use for VCS in general, so I had 
+no sense at which stages it's a good idea to commit your code, hence only one commit for the whole project.
+
+
+
+This is one of the things I'm hoping to become acustomed to working in a team of developers.
